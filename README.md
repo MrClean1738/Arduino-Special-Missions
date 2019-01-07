@@ -9,3 +9,7 @@ The code in this repository is supposed to be easy to understand (being the amat
 # If you do plan on copying my code...
 
 Please if you didn't have this idea for code, please give me credit. If you copied my code because you were making code for someone else, tag me and give me credit for making it. I would really appreciate it.
+
+# Bru.......
+
+Just dont xerox
